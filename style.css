@@ -1,0 +1,10 @@
+.obraz:hover{
+  content: url(letter_opened.png);
+}
+body{
+    text-align: center;
+    font-family: serif;
+    color: blanchedalmond;
+    background-image: url(pp.png);
+    background-position: center;
+}
